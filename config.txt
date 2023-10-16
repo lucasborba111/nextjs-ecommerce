@@ -1,0 +1,12 @@
+ezeGG8hjQEjSSFEr
+
+add item 
+Caminho para configurar tailwindcss para todos arquivos de css do projeto
+file > preferences > settings > files: associations
+add item 
+item = *.css 
+value = tailwindcss
+
+rápida edição para string de estilização
+file > preferences > settings > editor: quick suggestions
+string = on
