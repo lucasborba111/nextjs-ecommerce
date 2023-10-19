@@ -2,7 +2,7 @@ import FormSubmitButton from '../components/FormSubmitButton'
 import prisma from '../lib/db/prisma'
 import { redirect } from 'next/navigation'
 export const metadata = {
-  title: 'Add product - Murgla Ecommerce',
+  title: 'Add product - Ecommerce',
 }
 
 async function addProduct(formData: FormData) {
